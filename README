@@ -1,0 +1,5 @@
+Some example created by llvm
+But Makefile is wriiten by 本少爺
+
+jit.cpp: Just in time compiler example
+TODO: add some function
